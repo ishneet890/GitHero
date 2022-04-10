@@ -1,3 +1,6 @@
 ravs
 tiet
 roll_no
+hobbies
+music
+dance
